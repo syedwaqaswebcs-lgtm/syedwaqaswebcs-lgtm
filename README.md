@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning+Enthusiast;%F0%9F%93%B1+Flutter+Mobile+Application+Developer;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%A7%A0+Building+AI+Powered+Applications;%F0%9F%92%BB+Computer+Science+Student;%F0%9F%9A%80+Transforming+Ideas+Into+Technology"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning+Enthusiast;%F0%9F%93%B1+Flutter+Mobile+Application+Developer;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%A7%A0+Building+AI+Powered+Solutions;%F0%9F%92%BB+Computer+Science+Student;%F0%9F%9A%80+Turning+Ideas+Into+Real+Applications"/>
 
 </div>
 
@@ -16,6 +16,7 @@
 
 
 <div align="center">
+
 
 <a href="mailto:syedwaqas.web.cs@gmail.com">
 
@@ -44,6 +45,7 @@
 
 </a>
 
+
 </div>
 
 
@@ -56,19 +58,19 @@
 
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-<h3>🤖 Artificial Intelligence</h3>
+<h3>🤖 AI & Machine Learning</h3>
 
 Machine Learning<br>
-NLP<br>
+Natural Language Processing<br>
 AI Applications<br>
 Data Analysis
 
 </td>
 
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 <h3>📱 Flutter Development</h3>
 
@@ -80,7 +82,7 @@ API Integration
 </td>
 
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 <h3>🌐 Full Stack Development</h3>
 
@@ -109,22 +111,19 @@ const waqas = {
 role:
 "AI Enthusiast | Machine Learning Developer | Flutter Developer | Full Stack Developer",
 
-
-focus:[
+expertise:[
 "Artificial Intelligence",
 "Machine Learning",
 "Natural Language Processing",
-"Mobile Application Development",
-"Web Development"
+"Flutter Mobile Development",
+"Full Stack Web Development"
 ],
 
-
 experience:[
-"Flutter Mobile App Development",
+"Flutter Application Development",
 "MERN Stack Development",
 "Machine Learning Projects"
 ],
-
 
 technologies:[
 "Python",
@@ -137,15 +136,13 @@ technologies:[
 "MongoDB"
 ],
 
-
 building:[
-"AI Powered Solutions",
-"Cross Platform Mobile Apps",
-"Full Stack Applications"
+"AI Powered Applications",
+"Mobile Applications",
+"Web Platforms"
 ],
 
-
 goal:
-"Developing intelligent solutions that solve real-world problems"
+"Creating intelligent solutions for real-world problems"
 
 };
