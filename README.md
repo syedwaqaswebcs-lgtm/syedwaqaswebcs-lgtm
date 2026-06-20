@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning+Enthusiast;%F0%9F%93%B1+Flutter+Mobile+Application+Developer;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%A7%A0+Building+AI+Powered+Solutions;%F0%9F%92%BB+Computer+Science+Student;%F0%9F%9A%80+Turning+Ideas+Into+Real+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning+Enthusiast;%F0%9F%93%B1+Flutter+Mobile+Application+Developer;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%A7%A0+Building+AI+Powered+Solutions;%F0%9F%92%BB+Computer+Science+Student;%F0%9F%9A%80+Turning+Ideas+Into+Applications"/>
 
 </div>
 
@@ -49,57 +49,6 @@
 </div>
 
 
-<br>
-
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-<h3>🤖 AI & Machine Learning</h3>
-
-Machine Learning<br>
-Natural Language Processing<br>
-AI Applications<br>
-Data Analysis
-
-</td>
-
-
-<td align="center" width="33%">
-
-<h3>📱 Flutter Development</h3>
-
-Android Applications<br>
-Dart Programming<br>
-Responsive UI<br>
-API Integration
-
-</td>
-
-
-<td align="center" width="33%">
-
-<h3>🌐 Full Stack Development</h3>
-
-React Applications<br>
-Node.js Backend<br>
-Database Systems<br>
-REST APIs
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-
 ---
 
 # 👨‍💻 About Me
@@ -119,12 +68,6 @@ expertise:[
 "Full Stack Web Development"
 ],
 
-experience:[
-"Flutter Application Development",
-"MERN Stack Development",
-"Machine Learning Projects"
-],
-
 technologies:[
 "Python",
 "Scikit-Learn",
@@ -138,8 +81,8 @@ technologies:[
 
 building:[
 "AI Powered Applications",
-"Mobile Applications",
-"Web Platforms"
+"Flutter Mobile Apps",
+"Full Stack Web Platforms"
 ],
 
 goal:
