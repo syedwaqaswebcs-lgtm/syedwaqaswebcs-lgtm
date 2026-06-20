@@ -180,4 +180,14 @@ Coursework exercises practicing screen routing and state management.
 </td>
 </tr>
 </table>
+<br>
+<div align="center">
+<a href="https://github.com/syedwaqaswebcs-lgtm?tab=repositories">
+<img src="https://img.shields.io/badge/🔗_View_All_Repositories-2c5364?style=for-the-badge&logoColor=white" height="35"/>
+</a>
+</div>
+<br>
+---
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=120&section=footer" width="100%"/>
 </div>
