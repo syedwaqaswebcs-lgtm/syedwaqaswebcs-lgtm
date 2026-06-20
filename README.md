@@ -1,164 +1,197 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=230&section=header&text=Syed%20Waqas%20Hussain&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Flutter%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
-
-</div>
+# 🚀 Featured Projects
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning+Enthusiast;%F0%9F%93%B1+Flutter+Mobile+Application+Developer;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%A7%A0+Building+AI+Powered+Solutions;%F0%9F%92%BB+Computer+Science+Student;%F0%9F%9A%80+Innovating+Through+Code+%26+Technology"/>
+## 📱 Flutter Mobile Applications
 
 </div>
 
 
-<br>
+### 🏥 Health & Fitness Application
 
+A Flutter-based mobile application designed to help users manage health-related activities with a clean and interactive user interface.
 
-<div align="center">
+### Features:
 
-<img src="https://komarev.com/ghpvc/?username=syedwaqaswebcs-lgtm&label=Profile%20Views&color=0e75b6&style=flat-square" />
+- 📱 Cross-platform Android application
+- 🎨 Modern responsive Flutter UI
+- 🔄 Smooth navigation and user experience
+- 📊 Health-related data management
+- ⚡ Fast and optimized performance
 
+**Technologies:**
 
-<img src="https://img.shields.io/github/followers/syedwaqaswebcs-lgtm?label=Followers&style=flat-square&color=38BDF8"/>
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-
-<a href="mailto:syedwaqas.web.cs@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-syedwaqas.web.cs%40gmail.com-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-
-<a href="https://linkedin.com/in/waqas-hussain-dev-ai">
-
-<img src="https://img.shields.io/badge/LinkedIn-Waqas%20Hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-
-<a href="tel:+923079024010">
-
-<img src="https://img.shields.io/badge/WhatsApp-03079024010-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
-</a>
-
-
-<a href="https://github.com/syedwaqaswebcs-lgtm">
-
-<img src="https://img.shields.io/badge/GitHub-syedwaqaswebcs--lgtm-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-<h3>🤖 AI & ML</h3>
-
-<p>
-Machine Learning<br>
-NLP<br>
-Intelligent Systems
-</p>
-
-</td>
-
-
-<td align="center" width="33%">
-
-<h3>📱 Flutter</h3>
-
-<p>
-Android Apps<br>
-Cross Platform Development<br>
-Modern UI
-</p>
-
-</td>
-
-
-<td align="center" width="33%">
-
-<h3>🌐 Development</h3>
-
-<p>
-Full Stack Web Apps<br>
-MERN Stack<br>
-Database Solutions
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+Flutter • Dart • Material UI
 
 
 ---
 
-# 👨‍💻 About Me
+### 🛒 E-Commerce Mobile Application
+
+A complete mobile shopping application built with Flutter that provides users with a seamless online shopping experience.
+
+### Features:
+
+- 🛍️ Product browsing and management
+- 🔍 Search and filtering functionality
+- 🛒 Shopping cart system
+- 👤 User profile management
+- 📱 Responsive mobile interface
+
+**Technologies:**
+
+Flutter • Dart • Firebase/API Integration
 
 
-```javascript
-const waqas = {
+---
 
-role:
-"AI Enthusiast | Machine Learning Developer | Flutter Developer | Full Stack Developer",
+### 📝 Notes Management Application
 
-focus:
-[
-"Artificial Intelligence",
-"Machine Learning",
-"Mobile Application Development",
-"Web Application Development"
-],
+A productivity-based Flutter application that allows users to create, update, and organize personal notes efficiently.
 
+### Features:
 
-skills:
-[
-"Python",
-"TensorFlow",
-"Scikit-Learn",
-"Flutter",
-"Dart",
-"React",
-"Node.js",
-"MongoDB"
-],
+- ✍️ Create and edit notes
+- 🗑️ Delete and manage notes
+- 💾 Local data storage
+- 🎨 Simple and user-friendly interface
+- ⚡ Fast application performance
+
+**Technologies:**
+
+Flutter • Dart • Local Storage
 
 
-building:
-[
-"AI Powered Applications",
-"Flutter Mobile Apps",
-"Full Stack Web Platforms"
-],
+---
+
+### 🌦️ Weather Application
+
+A Flutter application that provides real-time weather information using API integration.
+
+### Features:
+
+- 🌍 Real-time weather updates
+- 🔎 Location-based weather search
+- 🌡️ Temperature and weather conditions
+- 📡 API data fetching
+- 📱 Mobile-friendly interface
+
+**Technologies:**
+
+Flutter • Dart • REST APIs
 
 
-mission:
-"Creating intelligent technology solutions that solve real-world problems"
+---
 
-};
+<div align="center">
+
+## 🤖 Artificial Intelligence & Machine Learning Projects
+
+</div>
+
+
+### 🔍 Fake Job Detection System
+
+An AI-powered application that detects fraudulent job postings using Natural Language Processing and Machine Learning techniques.
+
+### Features:
+
+- 🧠 NLP-based text analysis
+- 📝 Job description preprocessing
+- 📊 Feature extraction
+- 🤖 Machine learning classification
+- 📈 Model evaluation and prediction
+
+
+**Technologies:**
+
+Python • Scikit-Learn • NLP • Pandas • Streamlit
+
+
+
+---
+
+### 📧 Email Spam Detection System
+
+A machine learning model that automatically classifies emails into spam and legitimate categories.
+
+### Features:
+
+- 📩 Email text classification
+- 🧹 Text preprocessing
+- 🔤 Feature extraction using NLP
+- 🤖 ML-based prediction
+- 📊 Accuracy evaluation
+
+
+**Technologies:**
+
+Python • NLP • Machine Learning • Scikit-Learn
+
+
+
+---
+
+<div align="center">
+
+## 🌐 Full Stack Web Applications
+
+</div>
+
+
+### 🛠️ AI Service Marketplace
+
+A full-stack web platform connecting users with trusted local service providers.
+
+### Features:
+
+- 👤 User authentication system
+- 🏪 Service provider profiles
+- 🔎 Service searching and filtering
+- ⭐ Rating and recommendation system
+- 📅 Booking management
+- 🛡️ Admin management panel
+
+
+**Technologies:**
+
+React • Node.js • Express.js • MongoDB
+
+
+
+---
+
+### 🏙️ NexUrban
+
+An AI-powered smart city management platform focused on improving urban infrastructure through intelligent solutions.
+
+### Features:
+
+- 🚦 Smart traffic management
+- ⚡ Energy optimization
+- 🏙️ Digital city monitoring
+- 🤖 AI-based decision support
+- 📊 Data-driven urban planning
+
+
+**Technologies:**
+
+Artificial Intelligence • Machine Learning • Web Technologies
+
+
+
+---
+
+<div align="center">
+
+## 📂 Project Repositories
+
+</div>
+
+
+### 📱 Flutter Development Repository
+
+Complete collection of Flutter mobile application projects.
+
+Repository:
