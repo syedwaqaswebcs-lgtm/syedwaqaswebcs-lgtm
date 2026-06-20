@@ -7,7 +7,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning+Enthusiast;%F0%9F%93%B1+Flutter+Mobile+Application+Developer;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%A7%A0+Building+AI+Powered+Solutions;%F0%9F%92%BB+Computer+Science+Student;%F0%9F%9A%80+Turning+Ideas+Into+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning+Enthusiast;%F0%9F%93%B1+Flutter+Mobile+Application+Developer;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%A7%A0+Building+AI+Powered+Solutions;%F0%9F%92%BB+Computer+Science+Student;%F0%9F%9A%80+Innovating+Through+Code+%26+Technology"/>
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=syedwaqaswebcs-lgtm&label=Profile%20Views&color=0e75b6&style=flat-square" />
+
+
+<img src="https://img.shields.io/github/followers/syedwaqaswebcs-lgtm?label=Followers&style=flat-square&color=38BDF8"/>
+
 
 </div>
 
@@ -20,7 +34,7 @@
 
 <a href="mailto:syedwaqas.web.cs@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-syedwaqas.web.cs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-syedwaqas.web.cs%40gmail.com-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
@@ -41,10 +55,64 @@
 
 <a href="https://github.com/syedwaqaswebcs-lgtm">
 
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-syedwaqaswebcs--lgtm-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+<h3>🤖 AI & ML</h3>
+
+<p>
+Machine Learning<br>
+NLP<br>
+Intelligent Systems
+</p>
+
+</td>
+
+
+<td align="center" width="33%">
+
+<h3>📱 Flutter</h3>
+
+<p>
+Android Apps<br>
+Cross Platform Development<br>
+Modern UI
+</p>
+
+</td>
+
+
+<td align="center" width="33%">
+
+<h3>🌐 Development</h3>
+
+<p>
+Full Stack Web Apps<br>
+MERN Stack<br>
+Database Solutions
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -60,18 +128,20 @@ const waqas = {
 role:
 "AI Enthusiast | Machine Learning Developer | Flutter Developer | Full Stack Developer",
 
-expertise:[
+focus:
+[
 "Artificial Intelligence",
 "Machine Learning",
-"Natural Language Processing",
-"Flutter Mobile Development",
-"Full Stack Web Development"
+"Mobile Application Development",
+"Web Application Development"
 ],
 
-technologies:[
+
+skills:
+[
 "Python",
-"Scikit-Learn",
 "TensorFlow",
+"Scikit-Learn",
 "Flutter",
 "Dart",
 "React",
@@ -79,13 +149,16 @@ technologies:[
 "MongoDB"
 ],
 
-building:[
+
+building:
+[
 "AI Powered Applications",
 "Flutter Mobile Apps",
 "Full Stack Web Platforms"
 ],
 
-goal:
-"Creating intelligent solutions for real-world problems"
+
+mission:
+"Creating intelligent technology solutions that solve real-world problems"
 
 };
